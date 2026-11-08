@@ -28,6 +28,12 @@ concavity, concave points, symmetry, and fractal dimension.
 - The raw CSV has no header row. Column 0 is an ID and is excluded; column 1
 	is the diagnosis; columns 2-31 are the 30 predictors.
 
+## c. GitHub Repository Link
+
+GitHub repository: https://github.com/2026ak05394/ML_Assignment_2
+
+Live Streamlit app: https://mlassignment2-m6wzzfqkhze43pqyi9tk57.streamlit.app/
+
 ## d. Models Used
 
 The dataset was divided using a stratified 80/20 train/test split with
